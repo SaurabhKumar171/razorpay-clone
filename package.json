@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "build": "NODE_ENV=production vite build"
   },
   "keywords": [],
   "author": "",
