@@ -2,7 +2,7 @@ import { defineConfig } from "vite";
 
 export default defineConfig({
     server:{
-        base:'/razorpay-clone/',
+        host:'192.168.0.53',
     }
     
 })
